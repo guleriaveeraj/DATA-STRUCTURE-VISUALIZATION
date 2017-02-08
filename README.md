@@ -1,2 +1,2 @@
 # DATA-STRUCTURE-VISUALIZATION
-A simple grapics code which helps in visualizing data structure through animations  
+Data structure visualization is the project which helps in learning various data structures like stack (its implementation as an array and as a linked list); queue as an array or as an linked list . I also implemented the linked list , which includes insertion from beginning and from end by giving the input in the another window. This project helps others to learn data structures by imagining the things in real time .
